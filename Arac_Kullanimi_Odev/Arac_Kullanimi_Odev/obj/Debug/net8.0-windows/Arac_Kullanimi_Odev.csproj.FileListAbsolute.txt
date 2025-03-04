@@ -1,0 +1,16 @@
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\bin\Debug\net8.0-windows\Arac_Kullanimi_Odev.exe
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\bin\Debug\net8.0-windows\Arac_Kullanimi_Odev.deps.json
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\bin\Debug\net8.0-windows\Arac_Kullanimi_Odev.runtimeconfig.json
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\bin\Debug\net8.0-windows\Arac_Kullanimi_Odev.dll
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\bin\Debug\net8.0-windows\Arac_Kullanimi_Odev.pdb
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.Form1.resources
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.csproj.GenerateResource.cache
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.AssemblyInfoInputs.cache
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.AssemblyInfo.cs
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.dll
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\refint\Arac_Kullanimi_Odev.dll
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.pdb
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\Arac_Kullanimi_Odev.genruntimeconfig.cache
+C:\Users\Tayfun\Desktop\CSharp\Arac_Kullanimi_Odev\Arac_Kullanimi_Odev\obj\Debug\net8.0-windows\ref\Arac_Kullanimi_Odev.dll
